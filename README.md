@@ -2,6 +2,8 @@
 
 Flutter로 개발된 웹 미디어 플레이어입니다. 
 
+테스트 : [https://hanj2501.github.io/ahzaplayer/#/](https://hanj2501.github.io/ahzaplayer/)
+
 ## 기본 설정 
 
 프로젝트를 저장 후 HTML파일이 실행되는 서버에 업도르 하면 됩니다. 
