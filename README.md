@@ -2,11 +2,11 @@
 
 Flutter로 개발된 웹 미디어 플레이어입니다. 
 
-테스트 : [https://hanj2501.github.io/ahzaplayer/#/](https://hanj2501.github.io/ahzaplayer/)
+테스트 : [https://hanj2501.github.io/ahzaplayer/](https://hanj2501.github.io/ahzaplayer/)
 
 ## 기본 설정 
 
-프로젝트를 저장 후 HTML파일이 실행되는 서버에 업도르 하면 됩니다. 
+프로젝트를 저장 후 HTML파일이 실행되는 서버에 업로드 하면 됩니다. 
 
 웹 경로는 기본 경로로 설정되어 있습니다. 경로 변경시 **index.html** 파일을 수정하세요.
 
@@ -18,6 +18,8 @@ Flutter로 개발된 웹 미디어 플레이어입니다.
 # 변경경로 ex) https://example.com/path/to/
 <base href="/path/to/">
 ```
+
+SSL(https) 적용된 서버에서 사용하는걸 추천합니다.
 
 ## 주의사항 
 
