@@ -34,6 +34,6 @@ Flutter로 개발된 웹 미디어 플레이어입니다.
 - 키보드 조작 가능 (방향키, Enter/Space, ESC)
 - 다이렉트 재생 기능 : GET Parameter 값으로 바로 재생
 ```
-https://example.com/#/direct?url=https%3A%2F%2Ftest-streams.mux.dev%2Fx36xhzz%2Fx36xhzz.m3u8
+https://hanj2501.github.io/ahzaplayer/#/direct?url=https%3A%2F%2Ftest-streams.mux.dev%2Fx36xhzz%2Fx36xhzz.m3u8
 ```
 
